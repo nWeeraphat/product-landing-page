@@ -17,3 +17,6 @@
 - git add README.md
 - git commit -m "git command used in this lab"
 - git push
+- git add .
+- git commit -m "เพิ่มไฟล์ comparison.docx"
+- git push
